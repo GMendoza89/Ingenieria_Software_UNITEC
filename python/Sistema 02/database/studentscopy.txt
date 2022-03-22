@@ -1,0 +1,7 @@
+1 Mendoza Gustavo 55555555
+2 Mendoza Sophia 0123456789
+3 Mendoza Vera 000000000
+4 Mendoza Emiliano 0987654321
+5 Vera Diana 1111111111
+6 Chavez Mario 1111440987
+7 Escobar Luis 2233445566
