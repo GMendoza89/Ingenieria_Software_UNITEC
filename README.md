@@ -1,9 +1,9 @@
 # Ingenieria Software UNITEC Campus Querétaro
 
-** Ingeniería de Software**
-** UNITEC Campus Querétaro**
+**Ingeniería de Software**
+**UNITEC Campus Querétaro**
 
-En este repositorio en contraras los programas desarrollados como ejercicios practicos. Los codigos esta desarrollados tomando como base los ejercicios prácticos del libro de libro ** Fundamentos de Ingenía de Software ** de los autores **_ Dra. María Carmen Gómez Fuentes, Dr. Jorge Cervantes Ojeda y Dr Pedro Gonzalez Pérez _**.
+En este repositorio en contraras los programas desarrollados como ejercicios practicos. Los codigos esta desarrollados tomando como base los ejercicios prácticos del libro de libro ***Fundamentos de Ingenía de Software*** de los autores **Dra. María Carmen Gómez Fuentes, Dr. Jorge Cervantes Ojeda y Dr Pedro Gonzalez Pérez***.
 
 A diferencia del libro el lenguaje utilizado es Python. El listado de carpetas es el siguiente:
 
